@@ -15,7 +15,7 @@ Internet is a wire build under the ground. Thanks to this wire, you are able to 
 
 When you send a message, internet will break it into packets and send it to the receiver. This is where the router will have its role. It will send the correct packets to the correct IP address !
 
-
+This theory file has been reviewed by Maxime Mazzaro.
 
 
 
